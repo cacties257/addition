@@ -136,7 +136,7 @@ st.write("")
 
 st.markdown("### Q2. 식품 유형별 해외 대상 수출액 ### ")
 
-st.markdown('<p style="color:#96582a; font-size:18px;",> ▶ 수출액 규모가 가장 큰 나라는 어디인가요? </p>', unsafe_allow_html=True)
+st.markdown('<p style="color:#96582a; font-size:18px;",> ▶ 식품 수출액 규모가 가장 큰 나라는 어디인가요? </p>', unsafe_allow_html=True)
 st.markdown('<p style="color:#96582a; font-size:18px;",> ▶ 식품첨가물 유형의 수출액은 최근에 가까워질수록 어떻게 변하고 있나요?  </p>', unsafe_allow_html=True)
 st.markdown('<p style="color:#96582a; font-size:20px;",> <strong> ▶ 이 자료를 탐구 대상 선정에 어떻게 활용하면 좋을까요?</strong> </p>', unsafe_allow_html=True)
 
