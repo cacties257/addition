@@ -1,0 +1,6 @@
+pip==24.3.1 
+streamlit==1.25.0
+altair
+pandas
+random
+matplotlib>=3.4.0
