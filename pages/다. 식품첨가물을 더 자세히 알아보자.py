@@ -111,7 +111,7 @@ for country in selected_countries:
         ax.plot(years, country_data[years].values.flatten(), label=country)
 
 # 그래프 범주 설정
-ax.set_title(f"{selected_industry} - {selected_countries}의 년도별 수출액", fontsize=16)
+ax.set_title(f"{selected_industry} - 국가별/년도별 수출액", fontsize=16)
 ax.set_xlabel("년도", fontsize=12)
 ax.set_ylabel("숫자 값", fontsize=12)
 ax.legend(title="국가")
